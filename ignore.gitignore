@@ -1,0 +1,10 @@
+Debug/
+x86/
+x64/
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.tlog
